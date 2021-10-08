@@ -4,3 +4,5 @@ print("Seu nome é: " + nome)
 
 print("Ok")
 print("Olá")
+
+print("Teste")
